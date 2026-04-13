@@ -1,3 +1,5 @@
 git init für den Start // for initializing repository
 git add <file>
 git commit -m "your comitt Message"
+
+Test push git
